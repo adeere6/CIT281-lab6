@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Lab goals and outcomes:
 
-You can use the [editor on GitHub](https://github.com/adeere6/CIT281-lab6/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+- Part 1: Join GitHub and work through Introduction to GitHub course
+- Part 2: Create lab file
+- Part 3: Classes overview
+- Part 4: Create and test Book class
+- Part 5: Create and test Library class
+- Part 6: Add at least two more books to the library
+- Part 7: Add ISBN and a delete book method
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This lab requires a GitHub account. 
 
-### Markdown
+![image](https://user-images.githubusercontent.com/83984264/120867740-656e2800-c547-11eb-89cb-bdf0cf347f6f.png)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## What I learned:
 
-# Header 1
-## Header 2
-### Header 3
+I learned how to use GitHub and how it works. I also learned a lot about classes in this lab and how to add and delete things from these classes as well. 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/adeere6/CIT281-lab6/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![image](https://user-images.githubusercontent.com/83984264/120867690-4cfe0d80-c547-11eb-842d-23941a7808c7.png)
